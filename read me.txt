@@ -1,0 +1,2 @@
+This code applies has pseudo class to apply hover effect all the previous letters also.
+This makes a really cool effect. 
